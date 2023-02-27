@@ -1,5 +1,5 @@
 # eBird Species Recommendation
 
-I have implemented k nearest neighbour algorithm from scratch to recommend the species that are most likely to be observed next to the given checklist.
+I have implemented k nearest neighbour algorithm from scratch to recommend the species that are most likely to be observed next to the given checklist. This recommendation system has 0.04754 error.
 
 eBird is the world's largest citizen science project. To date, more than 1 billion bird observations have been tallied across nearly 100 million checklists submitted by nearly 750,000 citizen scientists across the globe, documenting over 99% of the bird species known to exist today. One of these challenges is ensuring the data is accurate and complete. Often, citizen scientists forget about some species they observed in the field when submitting their checklist, which leads to missing data. We don't want missing data in scientific datasets, especially if we expect it to be complete. In this challenge, we have created a tool that recommends species that are most likely to be observed next given any checklist, so that citizen scientists in the field can double-check that their checklists not missing any species that they observed but forgot to record.
