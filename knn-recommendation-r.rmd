@@ -15,7 +15,7 @@ date: "2023-02-03"
 
 The Getting Started Notebook was a great help for us to jump-start our Kaggle challenge. Similar to the notebook, our team devised a simple K-Nearest Neighbor(KNN) algorithm to solve the challenge. KNN is a supervised classification algorithm and a more appropriate tool for building the recommendation engine.
 
-For the initial implementation, we built a recommendation system with 1-Nearest Neighbor using `python` as below:
+For the initial implementation, we built a recommendation system with 1-Nearest Neighbor using `R` as below:
 
 ``` python
 # Import data
